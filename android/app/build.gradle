@@ -247,6 +247,7 @@ dependencies {
   api 'host.exp.exponent:expo-font:1.1.0'
   api 'host.exp.exponent:expo-gl-cpp:1.1.0'
   api 'host.exp.exponent:expo-gl:1.1.0'
+  api 'host.exp.exponent:expo-google-sign-in:1.0.0'
   api 'host.exp.exponent:expo-image-loader-interface:1.1.0'
   api 'host.exp.exponent:expo-local-authentication:1.1.0'
   api 'host.exp.exponent:expo-localization:1.0.0'
